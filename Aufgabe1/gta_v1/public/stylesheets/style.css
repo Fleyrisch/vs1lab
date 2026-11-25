@@ -6,9 +6,7 @@
   Inherited box sizing used for ease of including 3rd party content-box components.
 */
 
-/* Global styling
-test Till
-*/
+/* Global styling*/
 
 html {
   box-sizing: border-box;
